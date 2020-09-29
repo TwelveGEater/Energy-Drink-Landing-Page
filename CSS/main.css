@@ -42,7 +42,7 @@ h6 {
 }
 
 .logo {
-	transform: scale(0.6);
+	transform: scale(2);
 }
 
 .nav {
@@ -330,6 +330,11 @@ h6 {
 }
 
 @media screen and (max-width: 992px) {
+
+	.logo {
+		transform: scale(1);
+	}
+
 	.container {
 		max-width: 960px;
 		overflow: hidden;

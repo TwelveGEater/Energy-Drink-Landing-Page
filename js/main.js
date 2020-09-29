@@ -10,7 +10,7 @@ owl.owlCarousel({
 	responsive: {
 		0: {
 			center: true,
-			items: 2,
+			items: 1,
 			dots: false,
 			nav: false
 		},
