@@ -14,11 +14,14 @@ owl.owlCarousel({
 			dots: false,
 			nav: false
 		},
-		600: {
-			items: 3
+		385: {
+			items: 2
 		},
-		992: {
-			items: 4
+		600: {
+			items: 2
+		},
+		900: {
+			items: 3
 		},
 		1300: {
 			items: 5
